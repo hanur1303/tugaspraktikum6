@@ -103,8 +103,8 @@ list.items(): memanggil isi dari variable list, .format Digunakan untuk mengatur
 
 Apabila kita menginput 'l/L' maka sistem akan menampilkan data - data yang sudah kita masukkan. Jika kita belum memasukkan data maka outputnya menjadi "TIDAK ADA DATA".
 
-Keluar program
-    # Keluar program
+# Keluar program
+
     elif c. lower() == 'k':
         break
 
