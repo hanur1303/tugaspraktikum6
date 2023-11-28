@@ -115,20 +115,18 @@ Program untuk menghentikan perulangan
 Jika menginput"k/K" program akan berhenti melakukan perulangan dan otomatis keluar dari program
 
 # hasil pemrograman
-
-# flowchart
-
-
+![image](https://github.com/hanur1303/tugaspraktikum6/assets/148194701/125b551c-9b10-46b9-8ab0-6bc60ff1d6bc)
 
 # Catatan
 Program berjalan dalam loop tak terbatas (while True) sehingga pengguna dapat terus melakukan operasi hingga memilih untuk keluar.
 Program menggunakan kamus (list) untuk menyimpan data mahasiswa, dengan nama sebagai kunci dan nilai-nilai terkait sebagai nilai.
 
-  Cara Penggunaan
+
+ # Cara Penggunaan
 Pilih opsi sesuai dengan tindakan yang ingin dilakukan: (T)Tambah, (U)Ubah, (H)Hapus, (C)Cari, (L)Lihat, atau (K)Keluar.
 Ikuti petunjuk yang muncul untuk setiap opsi, dan program akan merespons sesuai.
 Program akan terus berjalan hingga pengguna memilih untuk keluar.
 
-  Perhatian
+ # Perhatian
 Pastikan untuk memasukkan input sesuai dengan petunjuk untuk hasil yang diinginkan.
 Program memberikan pesan informasi jika terjadi kesalahan input atau jika data yang dicari/tindakan yang diinginkan tidak ditemukan.
